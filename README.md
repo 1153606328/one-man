@@ -1,6 +1,6 @@
 # one-man
 
-> A Vue.js project
+> 个人app练习
 
 ## Build Setup
 
