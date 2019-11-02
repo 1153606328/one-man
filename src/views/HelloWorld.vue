@@ -28,6 +28,7 @@ export default {
 .index{
     .title{
       padding: 10px;
+      font-weight: 600;
     }
 }
 </style>
